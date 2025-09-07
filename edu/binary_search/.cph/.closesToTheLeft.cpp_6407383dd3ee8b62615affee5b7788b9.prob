@@ -1,0 +1,1 @@
+{"name":"Local: closesToTheLeft","url":"d:\\CODE\\codeforces\\edu\\binary_search\\closesToTheLeft.cpp","tests":[{"id":1757238955122,"input":"5 5\n3 3 5 8 9\n2 4 8 1 10\n","output":"0\n2\n4\n0\n5\n"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"d:\\CODE\\codeforces\\edu\\binary_search\\closesToTheLeft.cpp","group":"local","local":true}
